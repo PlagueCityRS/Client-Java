@@ -1,0 +1,34 @@
+package jagex2.dash3d;
+
+import deob.ObfuscatedName;
+
+@ObfuscatedName("NZICAUCM")
+public final class Wall {
+
+	@ObfuscatedName("NZICAUCM.i")
+	public byte field1164;
+
+	@ObfuscatedName("NZICAUCM.a")
+	public int field1156;
+
+	@ObfuscatedName("NZICAUCM.b")
+	public int field1157;
+
+	@ObfuscatedName("NZICAUCM.c")
+	public int field1158;
+
+	@ObfuscatedName("NZICAUCM.d")
+	public int field1159;
+
+	@ObfuscatedName("NZICAUCM.e")
+	public int field1160;
+
+	@ObfuscatedName("NZICAUCM.h")
+	public int field1163;
+
+	@ObfuscatedName("NZICAUCM.f")
+	public ModelSource field1161;
+
+	@ObfuscatedName("NZICAUCM.g")
+	public ModelSource field1162;
+}
